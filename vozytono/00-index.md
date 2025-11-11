@@ -6,6 +6,6 @@ voz-spv.md
 Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/voz-spv.md
 
 tonos-spv.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/tonos-spv.md
+[https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/vozytono/tono-spv.md]
 
 
