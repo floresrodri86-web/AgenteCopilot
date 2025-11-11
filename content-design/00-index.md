@@ -53,11 +53,12 @@ Usá este índice para navegar en GitHub o para copiar las URLs *raw* y agregarl
 ---
 
 ### 🎤 Voz y tono
-- `voz-y-tono/voz-y-tono/voz-spv.md`  
-  Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/voz-y-tono/voz-spv.md
+- `voz-y-tono/voz-spv.md`  
+  Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/voz-spv.md
 
-- `voz-y-tono/voz-y-tono/tonos-spv.md`  
-  Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/voz-y-tono/tonos-spv.md
+- `voz-y-tono/tonos-spv.md`  
+  Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/tonos-spv.md
+
 
 ---
 
