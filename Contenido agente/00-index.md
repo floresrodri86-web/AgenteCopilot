@@ -1,58 +1,90 @@
-📚 Content Design – Índice principal
-Esta carpeta reúne la base de conocimiento del Agente Copilot – Content Design. Usá este índice para navegar en GitHub o para copiar las URLs raw y agregarlas como fuente en Copilot.
+# 📚 Content Design – Índice principal
 
-Nota: si en Copilot usás una sola URL, pegá la RAW del archivo 00-index.md o la RAW de la carpeta (según soporte).
-Recordá configurar: Scope = Global y Refresh policy = Manual.
+Esta carpeta reúne la base de conocimiento del **Agente Copilot – Content Design**.  
+Usá este índice para navegar en GitHub o para copiar las URLs RAW y agregarlas como fuente en Copilot.
 
-📁 Estructura del repo (actual)
-♿ Accesibilidad
-accesibilidad/accesibilidad-contenido.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/accesibilidad/accesibilidad-contenido.md
-🧩 Content Design (componentes)
-content-design/Banner.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/Banner.md
+---
 
-content-design/Mensajedeerror.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/Mensajedeerror.md
+## ⚙️ Configuración recomendada
 
-content-design/badge.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/badge.md
+- Si en Copilot usás una sola URL, pegá la RAW de este archivo (`00-index.md`) o la RAW de la carpeta (según soporte).
+- Recordá configurar:  
+  **Scope = Global**  
+  **Refresh policy = Manual**
 
-content-design/Title.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/Title.md
+---
 
-content-design/callout.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/callout.md
+## 📁 Estructura del repo (actual)
 
-content-design/list.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/content-design/list.md
+### ♿ Accesibilidad
+**Archivo:** accesibilidad/accesibilidad-contenido.md  
+**RAW:**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/accesibilidad/accesibilidad-contenido.md
 
-✍️ Lineamientos de escritura
-lineamientos-escritura/lineamientos-individuos.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/lineamientos-escritura/lineamientos-individuos.md
+---
 
-lineamientos-escritura/lineamientos-obe.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/lineamientos-escritura/lineamientos-obe.md
+### 🧩 Content Design (componentes)
 
-lineamientos-escritura/ortografia-gramatica.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/lineamientos-escritura/ortografia-gramatica.md
+**Banner.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/Banner.md
 
-lineamientos-escritura/uso-emojis.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/lineamientos-escritura/uso-emojis.md
+**Mensajedeerror.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/Mensajedeerror.md
 
-🎤 Voz y tono
-voz-y-tono/voz-spv.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/voz-spv.md
+**badge.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/badge.md
 
-voz-y-tono/tonos-spv.md
-Raw: https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/refs/heads/main/voz-y-tono/tonos-spv.md
+**Title.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/Title.md
 
-🛠️ Recomendaciones rápidas para Copilot
-Opción A (recomendada): en Copilot, agrega una sola fuente apuntando a la carpeta content-design/ (si la UI te permite seleccionar carpeta).
-Opción B (fallback): pega la RAW de este archivo 00-index.md (ej. .../content-design/00-index.md) en Precise Knowledge → Add URL.
-Si Copilot no “sigue” enlaces, pega además (temporalmente) las RAW de los archivos críticos (ej.: Banner.md / lineamientos-individuos.md).
-🧩 Buenas prácticas de mantenimiento
-No renombrar archivos después de haberlos agregado como URL en Copilot (si lo hacés, actualizá el link en Copilot).
-Mantené 00-index.md actualizado con cualquier nuevo archivo o cambio de ruta.
-Usá nombres claros y consistentes (prefijo numérico opcional: 01-, 02- para ordenar).
-Añadí metadatos al inicio de cada archivo si querés (tags, audience, updated) para ayudar al índice y a la búsqueda.
+**callout.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/callout.md
+
+**list.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/content-design/list.md
+
+---
+
+### ✍️ Lineamientos de escritura
+
+**lineamientos-individuos.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/lineamientos-escritura/lineamientos-individuos.md
+
+**lineamientos-obe.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/lineamientos-escritura/lineamientos-obe.md
+
+**ortografia-gramatica.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/lineamientos-escritura/ortografia-gramatica.md
+
+**uso-emojis.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/lineamientos-escritura/uso-emojis.md
+
+---
+
+### 🎤 Voz y tono
+
+**voz-spv.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/voz-y-tono/voz-spv.md
+
+**tonos-spv.md**  
+https://raw.githubusercontent.com/floresrodri86-web/AgenteCopilot/main/voz-y-tono/tonos-spv.md
+
+---
+
+## 🛠️ Recomendaciones rápidas para Copilot
+
+- **Opción A (recomendada):** en Copilot, agregá una sola fuente apuntando a la carpeta `/content-design/` (si la UI lo permite).  
+- **Opción B (fallback):** pegá la RAW de este archivo `00-index.md` en *Precise Knowledge → Add URL*.  
+- Si Copilot no “sigue” enlaces, agregá temporalmente las RAW de los archivos críticos (por ejemplo: `Banner.md`, `lineamientos-individuos.md`).
+
+---
+
+## 🧩 Buenas prácticas de mantenimiento
+
+- No renombres archivos después de haberlos agregado como URL en Copilot (si lo hacés, actualizá el link).
+- Mantené este archivo **00-index.md** actualizado con cualquier nuevo archivo o cambio de ruta.
+- Usá nombres claros y consistentes (podés usar prefijo numérico: `01-`, `02-` para ordenar).
+- Si querés, añadí metadatos al inicio de cada archivo (tags, audience, updated) para mejorar la búsqueda.
+
+---
+
